@@ -31,3 +31,19 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Maven
+target/
+*.jar
+*.war
+*.class
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+*.class
+
+# Logs
+*.log
